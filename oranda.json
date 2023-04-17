@@ -5,5 +5,8 @@
         "Contributing": "./CONTRIBUTING.md"
     },
     "md_book": "./book/book",
-    "static_dir": "assets"
+    "static_dir": "assets",
+    "artifacts": {
+        "cargo-dist": "true"
+    }
 }
